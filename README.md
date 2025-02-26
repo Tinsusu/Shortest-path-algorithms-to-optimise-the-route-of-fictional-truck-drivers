@@ -1,3 +1,9 @@
+### Motivation
+
+The aim is to study and implement the Clark and Wright savings algorithm for finding routes in a capacitated vehicle routing problem, as well as a brute-force approach to solve the Traveling Salesman Problem. The project was designed using Java with an object-oriented approach, and the implementation is based on graph theory techniques.
+
+
+### How to use this program 
 
 Go to the Main.java
 
@@ -15,19 +21,35 @@ for example we select trydata.txt so we we put in the path down below.
 
 Change trucks capacity as following
 
-P-n16-k8    truck capacity =  30
+P-n16-k8    truck capacity =  30 
+
 E-n22-k4    truck capacity =  23
+
 E-n101-k14  truck capacity =  35
+
 A-n63-k10   truck capacity =  100
+
 E-n33-k4    truck capacity =  8000
+
 P-n22-k8    truck capacity =  3000
+
 A-n61-k9    truck capacity =  100
+
 X-n125-k30  truck capacity =  188
+
 X-n148-k46  truck capacity =  18
+
 X-n200-k36  truck capacity =  402
+
 X-n266-k58  truck capacity =  35
+
 X-n289-k60  truck capacity =  267
+
 X-n420-k130 truck capacity =  18
+
 X-n524-k153 truck capacity =  125
+
 X-n856-k95  truck capacity =  9
+
 X-n1001-k43 truck capacity =  131
+
